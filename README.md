@@ -12,7 +12,7 @@
 ## 사용법
 ![이미지](https://github.com/ChaBongSeok/0515newRepository/blob/master/%EA%B9%83%ED%97%88%EB%B8%8C%EC%9D%B4%EB%AF%B8%EC%A7%80.png)
 
-## 예
+## 예제
 문장 중간에 함수 `y = f (x)` 부분에서 함수의 결과가 y에 저장된다.
 
 C언어 **코드** _블럭_
